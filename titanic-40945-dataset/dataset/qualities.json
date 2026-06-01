@@ -1,0 +1,254 @@
+{
+  "data_qualities": {
+    "quality": [
+      {
+        "name": "AutoCorrelation",
+        "value": "0.6062691131498471"
+      },
+      {
+        "name": "ClassEntropy",
+        "value": "0.959422170862815"
+      },
+      {
+        "name": "Dimensionality",
+        "value": "0.0106951871657754"
+      },
+      {
+        "name": "EquivalentNumberOfAtts",
+        "value": "8.338046296490324"
+      },
+      {
+        "name": "MajorityClassPercentage",
+        "value": "61.80290297937356"
+      },
+      {
+        "name": "MajorityClassSize",
+        "value": "809.0"
+      },
+      {
+        "name": "MaxAttributeEntropy",
+        "value": "1.1534325740767195"
+      },
+      {
+        "name": "MaxKurtosisOfNumericAtts",
+        "value": "27.027986349441676"
+      },
+      {
+        "name": "MaxMeansOfNumericAtts",
+        "value": "160.8099173553719"
+      },
+      {
+        "name": "MaxMutualInformation",
+        "value": "0.20550487272008"
+      },
+      {
+        "name": "MaxNominalAttDistinctValues",
+        "value": "3.0"
+      },
+      {
+        "name": "MaxSkewnessOfNumericAtts",
+        "value": "4.367709134122926"
+      },
+      {
+        "name": "MaxStdDevOfNumericAtts",
+        "value": "97.6969219960031"
+      },
+      {
+        "name": "MeanAttributeEntropy",
+        "value": "1.0463713372687837"
+      },
+      {
+        "name": "MeanKurtosisOfNumericAtts",
+        "value": "11.031689239559626"
+      },
+      {
+        "name": "MeanMeansOfNumericAtts",
+        "value": "37.86088226053372"
+      },
+      {
+        "name": "MeanMutualInformation",
+        "value": "0.11506558452028"
+      },
+      {
+        "name": "MeanNoiseToSignalRatio",
+        "value": "8.093695057746512"
+      },
+      {
+        "name": "MeanNominalAttDistinctValues",
+        "value": "2.3333333333333335"
+      },
+      {
+        "name": "MeanSkewnessOfNumericAtts",
+        "value": "1.9636285454084217"
+      },
+      {
+        "name": "MeanStdDevOfNumericAtts",
+        "value": "27.769024103336104"
+      },
+      {
+        "name": "MinAttributeEntropy",
+        "value": "0.9393101004608482"
+      },
+      {
+        "name": "MinKurtosisOfNumericAtts",
+        "value": "-1.3150788243435427"
+      },
+      {
+        "name": "MinMeansOfNumericAtts",
+        "value": "0.38502673796791437"
+      },
+      {
+        "name": "MinMutualInformation",
+        "value": "0.02462629632048"
+      },
+      {
+        "name": "MinNominalAttDistinctValues",
+        "value": "2.0"
+      },
+      {
+        "name": "MinSkewnessOfNumericAtts",
+        "value": "-0.5986471102803975"
+      },
+      {
+        "name": "MinStdDevOfNumericAtts",
+        "value": "0.837836018970125"
+      },
+      {
+        "name": "MinorityClassPercentage",
+        "value": "38.19709702062643"
+      },
+      {
+        "name": "MinorityClassSize",
+        "value": "500.0"
+      },
+      {
+        "name": "NumberOfBinaryFeatures",
+        "value": "2.0"
+      },
+      {
+        "name": "NumberOfClasses",
+        "value": "2.0"
+      },
+      {
+        "name": "NumberOfFeatures",
+        "value": "14.0"
+      },
+      {
+        "name": "NumberOfInstances",
+        "value": "1309.0"
+      },
+      {
+        "name": "NumberOfInstancesWithMissingValues",
+        "value": "1309.0"
+      },
+      {
+        "name": "NumberOfMissingValues",
+        "value": "3855.0"
+      },
+      {
+        "name": "NumberOfNumericFeatures",
+        "value": "6.0"
+      },
+      {
+        "name": "NumberOfSymbolicFeatures",
+        "value": "3.0"
+      },
+      {
+        "name": "PercentageOfBinaryFeatures",
+        "value": "14.285714285714285"
+      },
+      {
+        "name": "PercentageOfInstancesWithMissingValues",
+        "value": "100.0"
+      },
+      {
+        "name": "PercentageOfMissingValues",
+        "value": "21.035687002073555"
+      },
+      {
+        "name": "PercentageOfNumericFeatures",
+        "value": "42.857142857142854"
+      },
+      {
+        "name": "PercentageOfSymbolicFeatures",
+        "value": "21.428571428571427"
+      },
+      {
+        "name": "Quartile1AttributeEntropy",
+        "value": "0.9393101004608482"
+      },
+      {
+        "name": "Quartile1KurtosisOfNumericAtts",
+        "value": "-1.269309018679956"
+      },
+      {
+        "name": "Quartile1MeansOfNumericAtts",
+        "value": "0.47039724980901376"
+      },
+      {
+        "name": "Quartile1MutualInformation",
+        "value": "0.02462629632048"
+      },
+      {
+        "name": "Quartile1SkewnessOfNumericAtts",
+        "value": "-0.0808576659180329"
+      },
+      {
+        "name": "Quartile1StdDevOfNumericAtts",
+        "value": "0.8586292112546657"
+      },
+      {
+        "name": "Quartile2AttributeEntropy",
+        "value": "1.0463713372687837"
+      },
+      {
+        "name": "Quartile2KurtosisOfNumericAtts",
+        "value": "10.095100729172625"
+      },
+      {
+        "name": "Quartile2MeansOfNumericAtts",
+        "value": "16.08800805071377"
+      },
+      {
+        "name": "Quartile2MutualInformation",
+        "value": "0.11506558452028"
+      },
+      {
+        "name": "Quartile2SkewnessOfNumericAtts",
+        "value": "2.0383750450744884"
+      },
+      {
+        "name": "Quartile2StdDevOfNumericAtts",
+        "value": "7.727579045259853"
+      },
+      {
+        "name": "Quartile3AttributeEntropy",
+        "value": "1.1534325740767195"
+      },
+      {
+        "name": "Quartile3KurtosisOfNumericAtts",
+        "value": "22.91280574039027"
+      },
+      {
+        "name": "Quartile3MeansOfNumericAtts",
+        "value": "65.17408879985216"
+      },
+      {
+        "name": "Quartile3MutualInformation",
+        "value": "0.20550487272008"
+      },
+      {
+        "name": "Quartile3SkewnessOfNumericAtts",
+        "value": "3.9750925407229336"
+      },
+      {
+        "name": "Quartile3StdDevOfNumericAtts",
+        "value": "63.24323167838142"
+      },
+      {
+        "name": "StdvNominalAttDistinctValues",
+        "value": "0.5773502691896258"
+      }
+    ]
+  }
+}
